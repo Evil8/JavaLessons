@@ -1,16 +1,9 @@
-package by.epam;
+package by.epam.task1;
 
-import java.util.Scanner;
-
-import static java.lang.Math.pow;
-import static java.lang.StrictMath.abs;
-import static java.lang.StrictMath.sqrt;
-
-import java.util.Random;
-
-public class Main {
+public class Task1 {
 
     public static void main(String[] args) {
+        System.out.println("Hello,world!");
         /*Lesson2Task1();
         Lesson2Task2();
         Lesson2Task3();
@@ -23,7 +16,7 @@ public class Main {
         Lesson2Task14();
         Lesson2Task15();*/
     }
-
+/*
     public static void Lesson2Task1() {
         System.out.println("Hello,world!");
     }
@@ -291,7 +284,7 @@ public class Main {
 
     public static void Lesson2Rask12(Object[] args) {
 
-     /*   int sum = 0;
+        int sum = 0;
         if (args.length <= 0){
             System.out.println("No arguments");
             return;
@@ -301,7 +294,7 @@ public class Main {
             sum = sum + Integer.parseInt(args[i]);
         }
 
-        System.out.println(" sum is " + sum);*/
+        System.out.println(" sum is " + sum);
     }
 
     public static void lesson2Task13() {
@@ -404,5 +397,5 @@ public class Main {
             }
         System.out.println("f(3.5) = " + z);
 
-    }
+    }*/
 }
