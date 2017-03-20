@@ -6,7 +6,7 @@
         LessonOneTaskThree();
     }
 
-    public static void LessonOneTaskTwo(){
+    public static void LessonOneTaskTwo(){//согласно code convention методы именуются с мателькой буквы
         int r = 5; //radius
         double len = 2*Math.PI*r; //length
         double area = Math.pow(Math.PI,2)*r; //area
